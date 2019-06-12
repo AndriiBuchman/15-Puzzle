@@ -1,0 +1,15 @@
+C:\Users\Vivo\source\repos\GameOfFifteen.Shuffler\GameOfFifteen.Shuffler\bin\Debug\GameOfFifteen.Shuffler.exe.config
+C:\Users\Vivo\source\repos\GameOfFifteen.Shuffler\GameOfFifteen.Shuffler\bin\Debug\GameOfFifteen.Shuffler.exe
+C:\Users\Vivo\source\repos\GameOfFifteen.Shuffler\GameOfFifteen.Shuffler\bin\Debug\GameOfFifteen.Shuffler.pdb
+C:\Users\Vivo\source\repos\GameOfFifteen.Shuffler\GameOfFifteen.Shuffler\obj\Debug\GameOfFifteen.Shuffler.csprojAssemblyReference.cache
+C:\Users\Vivo\source\repos\GameOfFifteen.Shuffler\GameOfFifteen.Shuffler\obj\Debug\MainWindow.g.cs
+C:\Users\Vivo\source\repos\GameOfFifteen.Shuffler\GameOfFifteen.Shuffler\obj\Debug\App.g.cs
+C:\Users\Vivo\source\repos\GameOfFifteen.Shuffler\GameOfFifteen.Shuffler\obj\Debug\GameOfFifteen.Shuffler_MarkupCompile.cache
+C:\Users\Vivo\source\repos\GameOfFifteen.Shuffler\GameOfFifteen.Shuffler\obj\Debug\GameOfFifteen.Shuffler_MarkupCompile.lref
+C:\Users\Vivo\source\repos\GameOfFifteen.Shuffler\GameOfFifteen.Shuffler\obj\Debug\MainWindow.baml
+C:\Users\Vivo\source\repos\GameOfFifteen.Shuffler\GameOfFifteen.Shuffler\obj\Debug\GameOfFifteen.Shuffler.g.resources
+C:\Users\Vivo\source\repos\GameOfFifteen.Shuffler\GameOfFifteen.Shuffler\obj\Debug\GameOfFifteen.Shuffler.Properties.Resources.resources
+C:\Users\Vivo\source\repos\GameOfFifteen.Shuffler\GameOfFifteen.Shuffler\obj\Debug\GameOfFifteen.Shuffler.csproj.GenerateResource.cache
+C:\Users\Vivo\source\repos\GameOfFifteen.Shuffler\GameOfFifteen.Shuffler\obj\Debug\GameOfFifteen.Shuffler.csproj.CoreCompileInputs.cache
+C:\Users\Vivo\source\repos\GameOfFifteen.Shuffler\GameOfFifteen.Shuffler\obj\Debug\GameOfFifteen.Shuffler.exe
+C:\Users\Vivo\source\repos\GameOfFifteen.Shuffler\GameOfFifteen.Shuffler\obj\Debug\GameOfFifteen.Shuffler.pdb
